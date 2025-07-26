@@ -11,17 +11,6 @@ A beautifully designed, responsive restaurant website made using **HTML** and **
 - Responsive design
 - Google Fonts used (Roboto)
 
-##  Folder Structure
-
-project-folder/
-│
-├── index.html
-├── style.css
-├── images/
-│ ├── images5.jpg
-│ ├── food1.jpg
-│ ├── food2.jpg
-│ └── food3.jpg
 
 
 ##  How to View
