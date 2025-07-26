@@ -1,4 +1,4 @@
-
+<img width="1882" height="869" alt="image" src="https://github.com/user-attachments/assets/dea75c46-7e11-4f6d-b0ff-79254f0ac454" />
 
 # Taste Theory Restaurant Website 
 
@@ -16,8 +16,7 @@ A beautifully designed, responsive restaurant website made using **HTML** and **
 ##  How to View
 Just open `index.html` in your browser.
 
-##  Screenshot
-*(Optional: Add a screenshot here using Markdown)*
+
 
 ##  License
 This project is for educational/demo purposes only.
