@@ -1,4 +1,4 @@
-# restaurant-website
+# Restaurant-website
 
 
 # Taste Theory Restaurant Website 
